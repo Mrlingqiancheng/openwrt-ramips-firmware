@@ -16,4 +16,4 @@
 # Add a feed source
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
-git clone -b LUCI-LUA-UCITRACK https://github.com/CCnut/feed-netkeeper.git
+echo 'src-git  https://github.com/Mrlingqiancheng/feed-netkeeper.git' >>feeds.conf.default
