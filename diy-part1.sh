@@ -17,3 +17,4 @@
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 echo 'src-git netkeeper https://github.com/Mrlingqiancheng/feed-netkeeper.git' >>feeds.conf.default
+echo 'src-git syncdial https://github.com/Mrlingqiancheng/luci-app-syncdial.git' >>feeds.conf.default
